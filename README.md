@@ -10,9 +10,8 @@ An end-to-end research assistant pipeline and benchmarking harness built to answ
 
 ---
 
-<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/2144eb54-48b7-4735-a044-75be6eb64424" />
-<img width="1915" height="955" alt="image" src="https://github.com/user-attachments/assets/af1a0a90-de92-4121-a6ca-ba9947194ce6" />
-
+<img width="1917" height="966" alt="Screenshot 2026-11-10 211727" src="https://github.com/user-attachments/assets/842d6cda-8844-4c5e-b5a7-6026e999d800" />
+<img width="1915" height="955" alt="Screenshot 2026-11-10 215740" src="https://github.com/user-attachments/assets/54462804-1634-4ece-849e-c78e7c5ce1f7" />
 
 ## 📌 Problem Overview
 
