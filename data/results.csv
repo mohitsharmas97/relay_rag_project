@@ -1,0 +1,18 @@
+request_id,scenario,source,start_time,first_token_ms,total_ms,status,retries,tokens_in,tokens_out,retrieval_setting,answer_grade
+d8c97499,Steady Traffic,groq,1794324195.822,0,85,error,0,1543,0,500_3_norerank,refused_correctly
+9b9b0c5a,Steady Traffic,groq,1794324197.376,0,80,error,0,1542,0,500_3_norerank,refused_correctly
+2f7d0aae,Steady Traffic,groq,1794324198.622,0,92,error,0,1542,0,500_3_norerank,refused_correctly
+8100543a,Steady Traffic,groq,1794324199.953,0,80,error,0,1547,0,500_3_norerank,refused_correctly
+b4406d58,Steady Traffic,groq,1794324201.232,0,85,error,0,1540,0,500_3_norerank,refused_correctly
+9ea0dc4e,Steady Traffic,groq,1794324202.514,0,94,error,0,1543,0,500_3_norerank,refused_correctly
+883c2909,Steady Traffic,groq,1794324203.895,0,90,error,0,1542,0,500_3_norerank,refused_correctly
+7b54c159,Steady Traffic,groq,1794324205.163,0,87,error,0,1542,0,500_3_norerank,refused_correctly
+c1b6f740,Steady Traffic,groq,1794324206.456,0,93,error,0,1547,0,500_3_norerank,refused_correctly
+09266dd0,Steady Traffic,groq,1794324207.728,0,87,error,0,1540,0,500_3_norerank,refused_correctly
+658b6412,Steady Traffic,groq,1794325026.346,867,13149,ok,0,5382,965,500_3_norerank,wrong
+9cfba422,Steady Traffic,groq,1794325040.572,7254,43454,ok,0,4906,1118,500_3_norerank,correct
+bbd99f4e,Steady Traffic,groq,1794325085.1,0,19542,rate_limited,0,1542,0,500_3_norerank,refused_correctly
+281e5c75,Steady Traffic,groq,1794325106.436,0,39465,rate_limited,0,1547,0,500_3_norerank,refused_correctly
+36370a07,Steady Traffic,groq,1794325147.866,636,26460,ok,0,5508,722,500_3_norerank,refused_correctly
+5984a733,Steady Traffic,groq,1794325175.366,7256,45003,ok,0,5374,811,500_3_norerank,wrong
+0d699415,Steady Traffic,groq,1794325221.396,6764,41475,ok,0,4813,898,500_3_norerank,correct
